@@ -1,0 +1,8 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Maui.Issue16881.Reproduction"
+             x:Class="Maui.Issue16881.Reproduction.MainPage">
+
+    <Label Text="{local:MyTestExtension}" />
+
+</ContentPage>
